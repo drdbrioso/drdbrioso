@@ -1,5 +1,7 @@
-<a href="https://github.com/drdbrioso/drdbrioso">
-  <picture>
-    <source  media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drdbrioso/drdbrioso/main/card.svg">
-  </picture>
-</a>
+## Personal Info
+- Name: Eduardo Brioso
+- Currently sutdying computer engineering at Universidade de São Paulo
+
+## Tech Info
+- Linux user and ricing enthusiast 
+- Most used languages: C, C++, Python

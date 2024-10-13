@@ -1,7 +1,4 @@
-## Personal Info
-- Name: Eduardo Brioso
-- Currently sutdying computer engineering at Universidade de São Paulo
-
-## Tech Info
+## About me
+- Computer engineering student at Universidade de São Paulo
 - Linux user and ricing enthusiast 
 - Most used languages: C, C++, Python
